@@ -190,3 +190,4 @@ C:\Users\francisco.martin\Documents\Payment\PaymentContext\PaymentContext.Tests\
 C:\Users\francisco.martin\Documents\Payment\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Shared.pdb
 C:\Users\francisco.martin\Documents\Payment\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.0\PaymentContext.Domain.pdb
 C:\Users\francisco.martin\Documents\Payment\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.0\PaymentContext.Tests.csproj.CopyComplete
+C:\Users\francisco.martin\Documents\Payment\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.0\Flunt.dll
